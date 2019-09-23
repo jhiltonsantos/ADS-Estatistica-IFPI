@@ -10,9 +10,12 @@
 library(shiny)
 library(data.table)
 library(tidyverse)
+#install.packages("sos")
+#library(sos)
+#install.packages("sos")
 
 getwd()
-#setwd("C:\\Users\\Aluno\\Documents\\teste\\sdebaixoparacima")
+setwd("/home/hilton/Development/git-estatistica-R/enem_2018")
 
 enem_2018 <- data.table::fread("enem_2018.csv",
                                nrows = 1000,
