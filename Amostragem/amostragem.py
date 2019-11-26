@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 from itertools import product
 
 
-# Valores População
-
 valor_populacao = np.array([1,2,4,5,7,9])
 
 populacao = {
@@ -24,7 +22,7 @@ resumo = tabela_experimento.describe()
 print(tabela_experimento)
 print(resumo)
 
-print("\n________População________")
+#print("\n________População________")
 print("Media: ", populacao['Media'])
 print("Variancia: ", populacao['Variancia'])
 print("Tamanho da Amostra: ", populacao['Tamanho Amostra'])
