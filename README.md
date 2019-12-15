@@ -3,7 +3,7 @@
 Atividades Realizadas Durante a Disciplina de Estatística
 no 2º Período de Análise e Desenvolvimento de Sistemas no IFPI.
 
-## Kaggle Link:
+## Kaggle Perfil:
 [Link] https://www.kaggle.com/jhiltonsantos
 
 ## Trabalho Final (Análise de Acidentes Aéreos No Brasil):
