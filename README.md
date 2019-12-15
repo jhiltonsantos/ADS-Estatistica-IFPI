@@ -9,6 +9,9 @@ no 2º Período de Análise e Desenvolvimento de Sistemas no IFPI.
 ## Trabalho Final (Análise de Acidentes Aéreos No Brasil):
 [Link] https://www.kaggle.com/jhiltonsantos/analiseestatisticaacidentesaereos
 
+<br>
+<br>
+
 <img src="https://github.com/jhiltonsantos/ADS-Algoritmos-IFPI/blob/master/ifpilogo.png" height="120" width="500">
 
 
